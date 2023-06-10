@@ -1,5 +1,6 @@
 hola mundo
-De ese modo, todo texto 
+kkk
+e ese modo, todo texto 
 contiene una serie de 
 mensajes cifrados que 
 el lector debe poder 
